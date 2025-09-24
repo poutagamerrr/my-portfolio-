@@ -1,0 +1,70 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.my-class {
+    color: blue;
+}
+
+.container {
+    padding: 20px;
+}
+li{
+    display: inline-block;
+    margin: 15px;
+    padding: 5px;
+    border: 2px solid black;
+    height: 50px;
+    
+}
+ul{
+    list-style: none;
+    padding-inline: 20px;
+    
+}
+h2{
+    color: green;
+    text-align: center;
+}
+#Work{
+    background-color: lightgrey;
+    padding: 20px;
+    margin-top: 20px;
+}
+#Resume{
+    background-color: lightblue;
+    padding: 20px;
+    margin-top: 20px;
+}
+#Contact{
+    background-color: lightgreen;
+    padding: 20px;
+    margin-top: 20px;
+}
+audio{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+nav{
+    text-align: center;
+    margin-top: 20px;
+}
